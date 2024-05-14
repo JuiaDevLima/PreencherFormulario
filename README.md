@@ -1,0 +1,5 @@
+Utilizando o PyAutoGUI, uma biblioteca Python que permite a automação de tarefas GUI (interface gráfica do usuário), fui capaz de criar scripts que reproduzem os cliques do mouse e pressionamentos de teclas necessários para navegar nos formulários da maneira que um usuário humano faria, tornando o processo totalmente automatizado.
+
+Além disso, o Pandas e o NumPy desempenharam um papel fundamental na manipulação e processamento dos dados necessários para preencher os formulários. Com o Pandas, pude ler e manipular facilmente conjuntos de dados complexos, enquanto o NumPy forneceu ferramentas poderosas para lidar com cálculos matemáticos e análises estatísticas, se necessário.
+
+Através da combinação dessas bibliotecas e de um planejamento cuidadoso, consegui criar um sistema robusto e flexível para preenchimento automático de formulários, economizando tempo e minimizando erros. Este projeto não só demonstrou minhas habilidades em Python e automação, mas também destacou minha capacidade de resolver problemas de forma criativa e eficiente.
